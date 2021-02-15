@@ -4,4 +4,4 @@
 Here are some ideas to get you started:
 
 
-![Metrics](https://github.com/Marcus-Lacia/Marcus-Lacia/blob/master/github-metrics.svg)
+
