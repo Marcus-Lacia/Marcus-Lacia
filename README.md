@@ -3,7 +3,7 @@
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
 </div>
-</n></n></n></n></n>
+<br></br><br></br><br></br>
 <p align="left">
 </p>
 
