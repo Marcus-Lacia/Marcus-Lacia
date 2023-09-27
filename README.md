@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lacia&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
