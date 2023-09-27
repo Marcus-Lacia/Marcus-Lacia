@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lacia&theme=tokyonight&locale=zh_Hans)](https://git.io/streak-stats)<br></br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lacia&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
