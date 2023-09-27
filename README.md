@@ -1,8 +1,7 @@
 ### Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lacia&theme=tokyonight&locale=zh_Hans)](https://git.io/streak-stats)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marcus-Lacia&show_icons=true&count_private=true&theme=jolly&icon_color=BA55D3&text_color=718096&bg_color=ffffff"/>
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
-</div>
+
 <br></br><br></br><br></br>
 <p align="left">
 </p>
