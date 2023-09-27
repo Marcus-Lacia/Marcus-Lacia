@@ -1,10 +1,6 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lacia&theme=tokyonight&locale=zh_Hans)](https://git.io/streak-stats)
-
-<br></br>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lacia&theme=tokyonight&locale=zh_Hans)](https://git.io/streak-stats)<br></br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Marcus-Lacia&show_icons=true&count_private=true&theme=jolly&icon_color=BA55D3&text_color=718096&bg_color=ffffff"/>
-
 <br></br>
 <p align="left">
 </p>
