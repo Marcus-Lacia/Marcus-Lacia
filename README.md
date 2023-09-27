@@ -1,12 +1,7 @@
 ### Hi there 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Marcus-Lacia&show_icons=true&count_private=true&theme=jolly&icon_color=BA55D3&text_color=718096&bg_color=ffffff"/>
 
-Here are some ideas to get you started:
 
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
