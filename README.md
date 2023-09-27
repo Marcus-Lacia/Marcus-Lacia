@@ -3,7 +3,7 @@
 
 <br></br><br></br><br></br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marcus-Lacia&show_icons=true&count_private=true&theme=jolly&icon_color=BA55D3&text_color=718096&bg_color=ffffff"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Marcus-Lacia&show_icons=true&count_private=true&theme=jolly&icon_color=BA55D3&text_color=718096&bg_color=ffffff"/>
 
 <br></br><br></br><br></br>
 <p align="left">
