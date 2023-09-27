@@ -12,3 +12,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Marcus-Lacia&show_icons=true&count_private=true&theme=jolly&icon_color=BA55D3&text_color=718096&bg_color=ffffff"/>
 <br></br>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcus-Lacia)](https://github.com/ashutosh00710/github-readme-activity-graph)
